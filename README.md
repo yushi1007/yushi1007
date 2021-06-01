@@ -4,7 +4,7 @@
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- 🔭 I am currently working on my portfolio [website](https://www.yushi.dev/) - Loading page
+- 🔭 I am currently working on my portfolio [website](https://www.yushi.dev/)
 - 🌱 I'm currently trying to improve my CSS skill
 - 📝 I'm currently working on my next blog
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
