@@ -1,4 +1,4 @@
-### Hi there, I'm Yu 👋
+### Hi there, I'm [Yu](https://www.yushi.dev/) 👋
 
 ## I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 
