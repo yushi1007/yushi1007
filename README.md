@@ -5,7 +5,7 @@
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 - 🔭 I'm currently working on my old projects
-- 🔭 I'm currently building a E-commerce website
+- 🔭 I'm currently building a Spotify Clone
 - 🔭 I'm currently learning Styled Components and Firebase
 - 🌱 I'm currently trying to improve my CSS skill
 - 📝 I'm currently working on my next blog
