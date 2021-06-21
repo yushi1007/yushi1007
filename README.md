@@ -1,9 +1,9 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/">Yu</a> 👋
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
 </h3>
 
 <p align="center">
-  <a href="https://www.yushi.dev/"><img width="200" height="200" src="https://user-images.githubusercontent.com/75753187/122709317-0fc69a80-d22c-11eb-96f2-d98932b037cd.png" alt="my memoji"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img width="200" height="200" src="https://user-images.githubusercontent.com/75753187/122709317-0fc69a80-d22c-11eb-96f2-d98932b037cd.png" alt="my memoji"></a>
 </p>
 
 <h2 align="center">
