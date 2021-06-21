@@ -1,6 +1,6 @@
-<p align="center">
-### Hi there, I'm [Yu](https://www.yushi.dev/) 👋
-</p>
+<h1 align="center">
+### Hi there, I'm <a href="https://www.yushi.dev/">Yu</a> 👋
+</h1>
 
 ## I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 
