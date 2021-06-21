@@ -14,7 +14,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - 🔭 I'm currently working on my old projects
 - 🔭 I'm currently building a Restaurant Recommendation map
-- 🔭 I'm currently building a Spotify Clone
 - 🌱 I'm currently learning Styled Components and Firebase
 - 🌱 I'm currently learning React Native📱
 - 🌱 I'm currently trying to improve my CSS skill
