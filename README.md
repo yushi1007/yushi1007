@@ -1,8 +1,14 @@
-<h1 align="center">
-### Hi there, I'm <a href="https://www.yushi.dev/">Yu</a> 👋
-</h1>
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/">Yu</a> 👋
+</h3>
 
-## I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75753187/122706389-dab74980-d225-11eb-8c24-56b9994a0eee.jpg" alt="my memoji">
+</p>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
