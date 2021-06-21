@@ -3,12 +3,7 @@ Hi there, I'm <a href="https://www.yushi.dev/">Yu</a> 👋
 </h3>
 
 <p align="center">
-    <style>
-        .memoji {
-            border-radius: 50%;
-        }
-    </style>
-  <img class="memoji" width="200" height="200" src="https://user-images.githubusercontent.com/75753187/122706389-dab74980-d225-11eb-8c24-56b9994a0eee.jpg" alt="my memoji">
+  <img width="200" height="200" style="border-radius:50%" src="https://user-images.githubusercontent.com/75753187/122706389-dab74980-d225-11eb-8c24-56b9994a0eee.jpg" alt="my memoji">
 </p>
 
 <h2 align="center">
