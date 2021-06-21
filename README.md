@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there, I'm [Yu](https://www.yushi.dev/) 👋
+</p>
 
 ## I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 
