@@ -12,7 +12,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🔭 I'm currently working on
+## 🔭 I'm currently working on
 
 - My old projects
 - Restaurant Recommendation App (React-Native)
@@ -20,7 +20,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - My next blog
 - My CSS skill
 
-### 🌱 I'm currently learning
+## 🌱 I'm currently learning
 
 - 📱 React Native
 - Firebase
