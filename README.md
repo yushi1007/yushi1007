@@ -32,6 +32,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - 📱 React Native
 - Firebase
+- React Context API
 - Styled Components  
 
 ## 💼 Technical Skills
