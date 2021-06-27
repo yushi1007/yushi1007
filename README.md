@@ -24,7 +24,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - My old projects
 - Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
 - My next blog
 - My CSS skill
 
