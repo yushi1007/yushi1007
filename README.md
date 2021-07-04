@@ -30,9 +30,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
+- Python Django
+- TypeScript
+- Graphene/Apollo GraphQL
 - 📱 React Native
-- Firebase
-- React Context API
 - Styled Components  
 
 ## 💼 Technical Skills
