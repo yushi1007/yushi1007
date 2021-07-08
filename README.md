@@ -73,9 +73,13 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+<a href="https://github.com/yushi1007">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yushi1007&theme=vue&show_icons=true&count_private=true" alt="Yu's Github Stats' />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&langs_count=8)](https://github.com/yushi1007/github-readme-stats)
+<a href="https://github.com/yushi1007">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&langs_count=4&layout=compact&theme=vue" alt="Yu's Top Languages" />
+</a>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
 
