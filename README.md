@@ -77,10 +77,6 @@ I love the entire process of developing creative websites. I love the challenge 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yushi1007&theme=vue&show_icons=true&count_private=true" alt="yushi1007's Github Stats' />
 </a>
 
-<a href="https://github.com/yushi1007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&langs_count=4&layout=compact&theme=vue" alt="yushi1007's Top Languages" />
-</a>
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
 
 
