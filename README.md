@@ -34,7 +34,8 @@ I love the entire process of developing creative websites. I love the challenge 
 - TypeScript
 - Graphene/Apollo GraphQL
 - 📱 React Native
-- Styled Components  
+- Styled Components
+- Material-UI  
 
 ## 💼 Technical Skills
 
