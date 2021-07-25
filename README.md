@@ -22,7 +22,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Coding Assessment(Python and React)
+- Coding Assessment(FRONT-END CHALLENG)
 - Old projects
 - Restaurant Recommendation App (React-Native)
 - Next blog
