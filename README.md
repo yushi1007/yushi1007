@@ -25,16 +25,10 @@ I love the entire process of developing creative websites. I love the challenge 
 - BlackJack Game(mintbean Hackthon)
 - Old projects
 - Restaurant Recommendation App (React-Native)
-- Next blog
-- CSS skill
 
 ## 🌱 I'm currently learning
 
-- Python Django
-- TypeScript
-- Graphene/Apollo GraphQL
 - 📱 React Native
-- Styled Components
 - Material-UI  
 
 ## 💼 Technical Skills
