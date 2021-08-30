@@ -22,9 +22,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- BlackJack Game(mintbean Hackthon)
 - Old projects
-- Restaurant Recommendation App (React-Native)
+- Restaurant Recommendation App (MERN)
 
 ## 🌱 I'm currently learning
 
