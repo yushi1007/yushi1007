@@ -27,7 +27,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- 📱 Tailwind CSS
+- 🎨 Tailwind CSS
 
 ## 💼 Technical Skills
 
