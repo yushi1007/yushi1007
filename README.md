@@ -22,11 +22,12 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Restaurant Recommendation App (MERN)
+- Angular project
+- React.JS and Tailwind CSS portfolio website
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 Tailwind CSS
 
 ## 💼 Technical Skills
 
