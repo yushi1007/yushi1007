@@ -23,7 +23,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - Angular project
-- React.JS anime website
+- React.JS project
 
 ## 🌱 I'm currently learning
 
